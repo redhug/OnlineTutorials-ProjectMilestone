@@ -1,10 +1,10 @@
 <h2>Project Charter</h2>
 <h4>Project Title: Project Management Online Tutorials</h4>
-<h4> Project Start Date:05/17/2019                 Projected Finish Date:06/10/2019</h4>
+<h4> Project Start Date: 05/17/2019                 Estimated Finish Date: 06/10/2019</h4>
 <h4> Budget Information: Self Funded</h4>
-<h4> Project Manager: Name:Pavan Kumar Reddy, phone:+1 6605280989  , e-mail:s534625@nwmissouri.edu</h4>
-<h4> Project Objectives: To  provide a resource which would help understand Project MAnagement</h4>
-<h4> Main Project Success Criteria: Before the deadline our website should be live without any errors and with user-friendly design</h4>
+<h4> Project Manager: Name:Pavan Kumar Reddy, Phone:+1 6605280989  , e-mail:s534625@nwmissouri.edu</h4>
+<h4> Project Objectives: To help the students by providing user-friendly website about this Project Management</h4>
+<h4> Main Project Success Criteria: Before the deadline finish our website should be live without any errors and with user-friendly design</h4>
 <h4> Approach: AGILE APPROACH</h4>
 <h4> Roles and Responsibilities</h4>
  <table class="table table-dark">
@@ -44,7 +44,7 @@
 # Stakeholder Register for Project Name
 
 
-Prepared by:Pavan Kumar Reddy Byreddy         Date: 05/17/2019
+Prepared by: Pavan Kumar Reddy Byreddy         Date: 05/17/2019
  <table class="table table-dark">
                                       
                           
