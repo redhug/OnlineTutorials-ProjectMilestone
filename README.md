@@ -76,7 +76,7 @@ In one team everyone are interested to learn new things and want to help others.
 - Validating the content
 - Doing research among internet and library for the content
 
-## Web Application Developer: Chatur Veda Vyas Kurma
+## Web Application Developer:
 - Creating web application using various scripting languages and tools 
 - Meeting the requirements
 - Meeting the given deadlines
