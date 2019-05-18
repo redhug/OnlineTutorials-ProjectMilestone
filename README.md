@@ -1,6 +1,6 @@
 <h2 style="text-align:center"> 44-618-Project Management in Business and Technology</h2>
 <h3 style="text-align:center"> Section 05 - Group 07: Milestone 01</h3>
-<h3 style="text-align:center"> Project title: A Guide to Project Management</h3>
+<h3 style="text-align:center"> Project title: Project Management Online Tutorials</h3>
 
 ## Description:
 This project is a user friendly and easy to navigate website with a quality content about all the process groups and the knowledge areas.
