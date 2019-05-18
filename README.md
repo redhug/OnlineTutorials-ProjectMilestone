@@ -15,7 +15,7 @@ This project is a user friendly and easy to navigate website with a quality cont
 ## Client: Dr. Denise M Case
 
 ## Team logo:
- ![Logo](https://github.com/redhug/OnlineTutorials-ProjectMilestone/blob/master/logo.png)
+ ![Logo](https://github.com/redhug/OnlineTutorials-ProjectMilestone/blob/master/logo%5B494%5D.png)
 
 
 ## Working as a team together:
@@ -71,7 +71,7 @@ In one team everyone are interested to learn new things and want to help others.
 - Communicating with other stakeholders
 
 
-## CContent Developer:
+## Content Developer:
 - Getting all content from different sources
 - Validating the content
 - Doing research among internet and library for the content
@@ -89,13 +89,14 @@ In one team everyone are interested to learn new things and want to help others.
 - Meeting the requirements
 
 ## Signatures:
- Pavan Kumar Reddy Byreddy
+
+- Pavan Kumar Reddy Byreddy
 --------------------------------------
 
- Sushma Rani Reddy Aleti
+- Sushma Rani Reddy Aleti
 --------------------------------------
 
- Nikitha Lakmarapu
+- Nikitha Lakmarapu
 --------------------------------------
 
 
