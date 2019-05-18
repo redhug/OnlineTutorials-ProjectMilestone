@@ -15,7 +15,7 @@ This project is a user friendly and easy to navigate website with a quality cont
 ## Client: Dr. Denise M Case
 
 ## Team logo:
- ![Logo](https://github.com/redhug/OnlineTutorials-ProjectMilestone/blob/master/logo%5B494%5D.png)
+ ![Logo](https://github.com/redhug/OnlineTutorials-ProjectMilestone/blob/master/logo.png)
 
 
 ## Working as a team together:
