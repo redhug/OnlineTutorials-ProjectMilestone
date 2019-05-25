@@ -3,9 +3,8 @@
 ## 2.2 Scope Statement:
 
 
----|---|
 <h4>Project Title: Project Management Online Tutorials</h4>
-**Date:** | 5/23/2019
+Date: 5/23/2019
 **Prepared by:**| Havya Ravipati
 **Project Description:** | <p>This is an interactive website to help Northwest Missouri students understand Project management process groups and knowledge areas.Using this web application a student/learner can take a quiz on project integration management and process groups.If a student/learner get a score of 70% result will be displayed as pass.A student have scope to retake the exam. This project helps students understand Project Integration Management Knowledge Area and 5 process groups (initiating, planning, executing, monitoring & controlling, and control). </p>
 **Product Features and Requirements:**| The website should be easy to use. <br> It should be accessible to all the future Northwest Missouri Students who will be taking Project Management. <br> The website should have a login/Register page and also another option to login as a guest. <br> The Website should directly route to retake exam page, if the user score less than 70%. <br> There should be different questions for every attempt and the user can give as many attempts as he/she desires.
