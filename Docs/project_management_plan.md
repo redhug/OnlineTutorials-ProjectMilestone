@@ -34,11 +34,15 @@
 <h4>Project Success Criteria:</h4> <p>To deliver the project in the given time with quality code, better performance and without any defects.</p>
 
 ### Work Breakdown Structure (WBS)
-A link to the Work Breakdown Structure (WBS) of our project is:
+
+The following is the link for WBS
+
+[Sprint Backlog](https://github.com/redhug/OnlineTutorials-ProjectMilestone/blob/master/Docs/wbs.md)
 
 ## Project Schedule Management Plan
 
 ### Gantt chart
+
 
 
 ### Sprint Backlog
