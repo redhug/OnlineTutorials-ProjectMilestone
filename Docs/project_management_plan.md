@@ -37,13 +37,13 @@
 
 The following is the link for WBS
 
-[Sprint Backlog](https://github.com/redhug/OnlineTutorials-ProjectMilestone/blob/master/Docs/wbs.md)
+[WBS](https://github.com/redhug/OnlineTutorials-ProjectMilestone/blob/master/Docs/wbs.md)
 
 ## Project Schedule Management Plan
 
 ### Gantt chart
 
-
+![Gantt](https://github.com/redhug/OnlineTutorials-ProjectMilestone/blob/master/Docs/GanttChart.png)
 
 ### Sprint Backlog
 
