@@ -3,7 +3,7 @@
 <h3 style="text-align:center"> Project title: Project Management Online Tutorials</h3>
 
 ## Description:
-This project is a user friendly and easy to navigate website with a quality content about all the process groups and the knowledge areas.
+This project is a user friendly and easy to navigate website with a quality content about all the process groups and the knowledge areas.We are going to explain about each process in detail along with their knowledge areas.We also provide an interface where students can post their questions if they have any and we will be having other students and teachers who can respond to the questions.
 
 <h4> Team name:</h4>  Enchanters 
 
