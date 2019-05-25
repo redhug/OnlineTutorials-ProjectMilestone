@@ -43,6 +43,8 @@ A link to the Work Breakdown Structure (WBS) of our project is:
 
 ### Sprint Backlog
 
+The following is the link for spring backlog
+[Sprint Backlog](https://github.com/redhug/OnlineTutorials-ProjectMilestone/blob/master/Docs/sprint_backlog.md)
 
 ## Project Cost Management Plan
 
