@@ -75,3 +75,115 @@ The detailed cost estimation is provided below
 | 4. | __**Testing**__ | $10,000 |
 | 5. | __**Deployment**__ | $27,000 |
 | 6. | __**Support**__ | $25,300 |
+
+
+## Project Quality Management Plan
+
+The main quality management objective is to deliver project management products that meet the needs of the ultimate end-user – the project manager.
+
+
+The below four steps are involved in quality management plan.
+
+1.	Quality Planning – This process is done during the planning phase.
+2.	Quality Assurance  – This process is done during the execution phase.
+3.	Quality Control  – This process is done during the control phase.
+
+
+The key deliverables that need to meet quality standards are:
+
+•	The Project Management Framework
+•	The Web-based Performance Management tool 
+•	The Project Charter
+
+The key project processes subject to project quality standards are:
+
+•	The peer review. Project manager(Pavan Kumar Reddy) will review the Project Management Framework and the web-based performance management tool for design, content and usability. 
+•	The change management process used to manage change on the project.
+
+The main quality standards to be used on this project are:
+
+•	The Project Management Framework 
+•	Web usability standards and Information Mapping guidelines for the web development.
+
+## Project Resource Management Plan
+
+Below is link for Resource management plan
+
+[Resource Management Plan](https://github.com/redhug/OnlineTutorials-ProjectMilestone/blob/master/Docs/Project%20Resource%20Management/Resource_Management_Plan.md)
+
+## Project Communication Management Plan
+
+
+The purpose of the Communications Management Plan is to define the communication requirements for the project and how information will be distributed.  The Communications Management Plan defines the following:
+
+
+### 1. What information will be communicated
+
+The information related to project that includes any planning documents, requirements, testcases and related documents.
+
+### 2. Who is responsible for communicating project information
+
+Project manager is responsible for the communication in the team. If there are any changes in project, manager should send all those changes to the team. The team should send all daily status through mail to the manager.
+
+### 3. How the information will be communicated
+
+The best technology for conveying the information is email.
+
+### 4. How any sensitive or confidential information is communicated and who must authorize this
+
+The sensitive information must be authorized by the manager. Without manager approval the confidental information should not passed to others.
+
+
+### 5. How changes in communication or the communication process are managed
+
+If there are any changes, there should be meeting conducted with the team to discuss about those changes. The changes should be uploaded to common drive, so that everyone are aware of the changes.
+
+### 6. Any standard templates, formats, or documents the project must use for communicating
+
+Everyone should format one template when sending mails. Even in documents like test case documents or Use story document should follow a constant template.
+
+
+### 7. An escalation process for resolving any communication-based conflicts or issues
+
+The manager should define a escalation process if there any conflicts in the team.
+
+
+### 8. Stakeholder communications requirements
+ 
+Stakeholders|Document Name|Document Format|Contact Person|Due Date|
+---|---|--|--|--|
+Program Manager	|Project status report |Email |s534625@nwmissouri.edu |Every week
+Team Lead |Project Review report |Email |s534625@nwmissouri.edu |Every week
+Team member |Project documents |Email |s534741@nwmissouri.edu |Every week
+Team member |Project documents |Email |s534690@nwmissouri.edu| Every week 
+
+## Project Risk Management Plan
+
+### Introduction:
+This project is a user friendly and easy to navigate website with a quality content about all the process groups and the knowledge areas.We are going to explain about each process in detail along with their knowledge areas.We also provide an interface where students can post their questions if they have any and we will be having other students and teachers who can respond to the questions.
+
+### Risk Management Approach:
+The approach we have taken to manage risks for this project includes a process by which the project team is identified and ranked according to the various risks.
+
+### Roles and Responsibilities:
+Project Manager - Pavan Kumar Reddy - Aprroves or Disapproves the tasks <br> Content Developer - Sushma Rani Reddy Aleti, Nikitha Lakmarapu - Researching, writing, gathering, organizing, and editing information regarding project <br>Web Application Developer - Pavan Kumar Reddy - main role in developing applications<br> User Interface Developer - Sushma Rani Reddy Aleti, Nikitha Lakmarapu
+
+### Risk Identification:
+The risk identification was conducted in the initial project risk assessment meeting.Crawford Slip method was used by the project team to the identify risks.
+
+### Risk Analysis and Evaluation:
+We have to analyze the risks identified to determine what effects that have on a project like delayed time or reduced quality.The risks are also evaluated for probability and impact.
+
+### Risk Response Planning:
+The process for conducting response planning to address both negative and positive risks including how a project team will develop actions will e explained.
+
+### Risk Mitigation:
+This process is defined as the steps taken to reduce the adverse effects.
+
+### Risk Monitoring:
+The greatest impacts of risks are added to the project plan to make sure that they are monitored during the time the project is exposed to each risk.
+
+
+### Risk Register:
+The Risk Register is a log of all risks identified, the impact to the project, to which category they belong to, mitigation strategy, and when the risk will e occurred in this project. 
+

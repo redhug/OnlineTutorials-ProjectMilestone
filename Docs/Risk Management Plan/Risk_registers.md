@@ -1,0 +1,10 @@
+## Risk Register
+
+Risk ID| Rank | Name | Description | Category | Root Cause | Triggers | Responses | Risk Owner | Probability | Impact | Status | 
+---|---|---|---|---|---|---|---|---|---|---|---|
+3621| 1 | Rise in Budget | It is important to estimate the budget and go according to the plan.| Financial/People | Improper estimations | Rise   in salaries | Risk Acceptance | Financial Manager | High | High | Prediction |
+3287| 2 |Scope of project | If the product owner is not happy with the scope he might make change requests.It is hard to maintain scope as many people get involved from start to end| Process Risk | Improper Scope estimations/Improper deliverable | Product owners dissatisfaction | Risk Mitigation | Project Manager | High | High | Prediction |
+23| 3 | Time Maintainance| Day by day work should be completed as planned.It is going to burden if there is no proper time management.It effects project which results in client dissatification.| Process Risk | wrong estimation of time | unable to finish the scheduled work on time | Risk Mitigation | Project Manager & Team | Medium | High | Expected |
+28| 4 | Exit of Team member  |  If all of sudden a team mate resigns,it is difficult to finish the target as planned.Even a new member is appointed he should be trained and udjested according to requirements.| People Risk | lack of enthusiasm | dissatisfied team member | Risk Mitigation | Project Manager | Low| Medium| Expected | 
+89| 5 | Natural Disasters | These risks cannot be handled.They are unexpected but shows impact on the performance.There is no avoidance to these type of risks. | Financial Risk | Not having a disaster recovery methods | Not being prepared | Risk Acceptance | Organization | low | High| Anticipated |
+90| 6 |  Applications as similar | If there are applications similar to the produced one.No one shows interest in it.They keep using the old one as they are used to it.It should be new and interesting.It should grab the attention in market | Market Risk | Existing similar applications | Applications | Risk Acceptance | Program manager | High |High| Mitigated| 
