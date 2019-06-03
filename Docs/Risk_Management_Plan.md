@@ -7,7 +7,7 @@ This project is a user friendly and easy to navigate website with a quality cont
 The approach we have taken to manage risks for this project includes a process by which the project team is identified and ranked according to the various risks.
 
 ### Roles and Responsibilities:
-Project Manager - Pavan Kumar Reddy - Aprroves or Disapproves the tasks <br> Content Developer - Sushma Rani Reddy Aleti, Nikitha Lakmarapu - Researching, writing, gathering, organizing, and editing information regarding project <br>Web Application Developer - Pavan Kumar Reddy - main role in developing applications<br> User Interface Developer - 
+Project Manager - Pavan Kumar Reddy - Aprroves or Disapproves the tasks <br> Content Developer - Sushma Rani Reddy Aleti, Nikitha Lakmarapu - Researching, writing, gathering, organizing, and editing information regarding project <br>Web Application Developer - Pavan Kumar Reddy - main role in developing applications<br> User Interface Developer - Sushma Rani Reddy Aleti, Nikitha Lakmarapu
 
 ### Risk Identification:
 The risk identification was conducted in the initial project risk assessment meeting.Crawford Slip method was used by the project team to the identify risks.
