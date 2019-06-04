@@ -7,7 +7,7 @@ The cost management plan mainly includes four major sections:
 - Project Budgeting
 - Cost Control
 
-The total budget of the project is $36,000
+The total budget of the project is $9,296
 
 The detailed cost estimation is provided below
 
