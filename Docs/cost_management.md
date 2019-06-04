@@ -23,7 +23,7 @@ The detailed cost estimation is provided below
 | 5.   | Deployment             | 48    | $20  | $960   |
 | 6.   | Support                | 56    | $20  | $1120  |
 
-Link to cost estimate spreadsheet :
+Below is the link to cost estimate spreadsheet :
 
 [Cost Estimation](https://docs.google.com/spreadsheets/d/1-8uPObcfkXOwcRhq_2eUthfS3pnVIYnEY3f8C0wqCK0/edit#gid=0)
 
