@@ -24,7 +24,7 @@ The detailed cost estimation is provided below
 | 6.   | Support                | 56    | $20  | $1120  |
 
 
-####Note: 
+#### Note: 
 
 - The total project duration will be 20 days(8 hours/day) as we mentioned in WBS
 - Project Manager will be working for 20 days(2 hours/day) 
