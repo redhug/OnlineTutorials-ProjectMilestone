@@ -25,7 +25,7 @@ The detailed cost estimation is provided below
 
 Link to cost estimate spreadsheet :
 
-(Cost Estimation)[https://docs.google.com/spreadsheets/d/1-8uPObcfkXOwcRhq_2eUthfS3pnVIYnEY3f8C0wqCK0/edit#gid=0]
+(Cost Estimation) [https://docs.google.com/spreadsheets/d/1-8uPObcfkXOwcRhq_2eUthfS3pnVIYnEY3f8C0wqCK0/edit#gid=0]
 
 
 #### Note: 
