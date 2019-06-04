@@ -64,17 +64,17 @@ The total budget of the project is $2,48,400
 
 The detailed cost estimation is provided below
 
-| S.No	| Item	| Cost |
-|-------|-------|------|
-| 1. | __**Project Management**__ | |
-| | Project Manager  | $70,000 |
-| | Project Team Members  | $98,000 |
-| 2. | __**Hardware**__ | |
-| | 3 Laptops | $18,000 |
-| 3. | __**Software (Open source)**__ | $0 |
-| 4. | __**Testing**__ | $10,000 |
-| 5. | __**Deployment**__ | $27,000 |
-| 6. | __**Support**__ | $25,300 |
+| S.No | Item                   | Hours | $/hr | Cost   |
+|------|------------------------|-------|------|--------|
+| 1.   | Project Management     |       |      |        |
+|      | Project Manager        | 160   | $25  | $4,000 |
+|      | Project Team Members   | 168   | $21  | $3528  |
+| 2.   |  Hardware              |       |      |        |
+|      | 3 Laptops              | 480   | $16  | $7680  |
+| 3.   | Software (Open source) | 480   | $0   | $0     |
+| 4.   | Testing                | 96    | $21  | $2016  |
+| 5.   | Deployment             | 48    | $20  | $960   |
+| 6.   | Support                | 56    | $20  | $1120  |
 
 
 ## Project Quality Management Plan
