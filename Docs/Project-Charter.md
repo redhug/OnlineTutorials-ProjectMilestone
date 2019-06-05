@@ -2,7 +2,7 @@
 <h4>Project Title: Project Management Online Tutorials</h4>
 <h4> Project Start Date: 05/17/2019                 Estimated Finish Date: 06/10/2019</h4>
 <h4> Budget Information: Self Funded</h4>
-<h4> Project Manager: Name:Pavan Kumar Reddy, Phone:+1 6605280989  , e-mail:s534625@nwmissouri.edu</h4>
+<h4> Project Manager: Name: Pavan Kumar Reddy, Phone:+1 6605280989  , e-mail:s534625@nwmissouri.edu</h4>
 <h4> Project Objectives: To help the students by providing user-friendly website about Project Management.</h4>
 <h4> Main Project Success Criteria: Before the deadline finish our website should be live without any errors and with user-friendly design</h4>
 <h4> Approach: AGILE APPROACH</h4>
