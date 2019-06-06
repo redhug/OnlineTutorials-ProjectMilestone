@@ -50,11 +50,8 @@ Prepared by: Pavan Kumar Reddy Byreddy         Date: 05/17/2019
 
 ## Stakeholder analysis
 
-Issue Number|Description|Impcat of Issue|Reported By|Assigned To|Due Date|Status|Comments|
----|---|--|--|--|--|--|--|
-Sonam Gadekari	| High/High | Web developer | Sonam is organized and she is not very social. She is consistent in doing her work and maintains steadiness |
-Keerti kukunoor	| Low/Low | UI developer | Keerthi needs proper mentoring and monitoring on her tasks. She needs to be guided properly. In case of challenges some one should help her |
-Harika Naidu	| High/Low | Project Manager | Harika is friendly and amicable. She stays connected to all team members to now the status on the progress. |
-Havya Ravipati| High/High | Team  Lead | Havya takes up the challenging opportunities.Maintains steadiness and consistency in the delivarables. |
+
+
+
 
 
