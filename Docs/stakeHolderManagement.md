@@ -50,7 +50,20 @@ Prepared by: Pavan Kumar Reddy Byreddy         Date: 05/17/2019
 
 ## Stakeholder analysis
 
+| Name                      | Power/Interest | current engagement | Potential management strategies                                                               |
+|---------------------------|----------------|--------------------|-----------------------------------------------------------------------------------------------|
+| Pavan Kumar Reddy Byreddy | High/High      | Leading            | Pavan is interested to involve in all the tasks and he loves to take up the challenges.       |
+| Sushma Rani Reddy Aleti   | High/Medium    | Resistant          | Sushma makes use of interest through involvement in  low risk areas and a goodwill supporter. |
+| Nikitha Lakmarapu         | High/Medium    | Resistant          | Nikitha always tries to increase level of interest and aims to engage and consult regularly.  |
 
+
+## Issue Log
+
+
+| Issue id | Description                        | Impact                                        | Date reported | Reported by | Assigned to | Priority | Due date   | Status | Comments               |
+|----------|------------------------------------|-----------------------------------------------|---------------|-------------|-------------|----------|------------|--------|------------------------|
+| 1.       | Requirements need to be  finalized | cannot develop without finalized requirements | 06/01/2019    | Sushma      | Pavan       | High     | 06/04/2019 | Closed | Requirements finalized |
+| 2.       | Needed a domain to test  the app   | without testing, app  cannot be released      | 06/05/2019    | Nikitha     | Pavan       | Medium   | 06/10/2019 | Open   | Almost finished        |
 
 
 
