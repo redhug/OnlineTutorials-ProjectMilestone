@@ -1,4 +1,4 @@
-#**Statement of work (SOW)**#
+**Statement of work (SOW)**
 
 **Scope of work**: 3 laptops are needed in terms of hard ware. Vue js is the software involved for the project. 
 
