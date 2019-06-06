@@ -13,7 +13,7 @@ The Project Manager will provide oversight and management for all procurement ac
 All items and services to be procured for this project will be solicited under firm-fixed price contracts.
 
 
-**Statement of work (SOW)**
+### Statement of work (SOW)
 
 **Scope of work**: We are developing a user friendly and easy to navigate website with a quality content about all the process groups and the knowledge areas. 3 laptops are needed in terms of hard ware. Vue js is the software involved for the project. 
 
